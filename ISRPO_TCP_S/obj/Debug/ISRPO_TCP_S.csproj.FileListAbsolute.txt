@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\ISRPO_TCP\ISRPO_TCP_S\bin\Debug\ISRPO_TCP_S.exe.config
+C:\Users\Admin\source\repos\ISRPO_TCP\ISRPO_TCP_S\bin\Debug\ISRPO_TCP_S.exe
+C:\Users\Admin\source\repos\ISRPO_TCP\ISRPO_TCP_S\bin\Debug\ISRPO_TCP_S.pdb
+C:\Users\Admin\source\repos\ISRPO_TCP\ISRPO_TCP_S\obj\Debug\ISRPO_TCP_S.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\ISRPO_TCP\ISRPO_TCP_S\obj\Debug\ISRPO_TCP_S.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ISRPO_TCP\ISRPO_TCP_S\obj\Debug\ISRPO_TCP_S.exe
+C:\Users\Admin\source\repos\ISRPO_TCP\ISRPO_TCP_S\obj\Debug\ISRPO_TCP_S.pdb
